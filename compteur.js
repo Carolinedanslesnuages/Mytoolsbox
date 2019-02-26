@@ -1,3 +1,4 @@
+// Compteur pour créér un ID avec la creation d'une closure. 
 function compteur(){
 	var Cmpter = 1;
 	return function(){
